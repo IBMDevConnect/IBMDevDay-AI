@@ -1,4 +1,4 @@
-# IBM Developer Day-Artificial Intelligence- Resources
+# IBM Developer Day - Artificial Intelligence - Resources
 
 ## Agenda
 
@@ -24,8 +24,6 @@
 4. Install a Git command line or GUI client - [https://git-scm.com/downloads/](https://git-scm.com/downloads/)
 
 ## Code Patterns
-
-[https://developer.ibm.com/code/patterns/create-cognitive-retail-chatbot/](https://developer.ibm.com/code/patterns/create-cognitive-retail-chatbot/)
 
 [https://developer.ibm.com/code/patterns/create-cognitive-banking-chatbot/](https://developer.ibm.com/code/patterns/create-cognitive-banking-chatbot/)
 
