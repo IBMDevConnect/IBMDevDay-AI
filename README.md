@@ -1,4 +1,4 @@
-# IBM Developer Day - Artificial Intelligence - Resources
+# IBM Dev Day - Artificial Intelligence - Resources
 
 ## Agenda
 
